@@ -16,7 +16,7 @@ fatal: unable to access 'https://github.com/ElemeFE/element.git/': Failed to con
 ping github.com
 ```
 
-![{42A78B28-F07F-40E2-BC03-D9729FA6421A}](.\assets\{42A78B28-F07F-40E2-BC03-D9729FA6421A}.png)
+![{42A78B28-F07F-40E2-BC03-D9729FA6421A}](assets/{42A78B28-F07F-40E2-BC03-D9729FA6421A}.png)
 
 这里获取到IP为`20.205.243.166`
 
